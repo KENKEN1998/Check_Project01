@@ -9,7 +9,6 @@ public class App {
         do {
             System.out.println("================MENU===============");
             System.out.println("1.乗り物の座席予約");
-            System.out.println("2.");
             System.out.println("0.End");
 
             choice = sc.nextInt();
